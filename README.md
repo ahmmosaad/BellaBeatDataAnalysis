@@ -35,7 +35,8 @@ I used __SQL__ to do queries on data to get the following insights:
 All SQL Queries collected and well documented in this file: [SQL Queries](https://github.com/ahmmosaad/BellaBeatDataAnalysis/blob/main/BellaBeat%20SQL.sql)
 
 
-
+### Visualization
+check it out on __Tableau__ [here](https://public.tableau.com/app/profile/ahmosaad/viz/BellaBeatnotfinshed/Dashboard1) note: it's not finished yet!
 
 
 
